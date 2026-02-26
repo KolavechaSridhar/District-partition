@@ -1,0 +1,40 @@
+================================================================================
+Problem: Oregon (k=5)
+================================================================================
+
+Total Districts: 5
+Energy (Population Violation): 9947
+
+District 1
+Population: 757680
+Number of Nodes: 2
+Nodes (Population Labels):
+22346, 735334
+
+District 2
+Population: 764542
+Number of Nodes: 8
+Nodes (Population Labels):
+1765, 1871, 7445, 11173, 25213, 25748, 315335, 375992
+
+District 3
+Population: 772370
+Number of Nodes: 6
+Nodes (Population Labels):
+21720, 75403, 99193, 107667, 116672, 351715
+
+District 4
+Population: 763519
+Number of Nodes: 14
+Nodes (Population Labels):
+1441, 7008, 7422, 7895, 16134, 20978, 22364, 31313, 63043, 66380, 75889, 82713, 157733, 203206
+
+District 5
+Population: 772963
+Number of Nodes: 6
+Nodes (Population Labels):
+25250, 37039, 46034, 49351, 85579, 529710
+
+================================================================================
+End of Report
+================================================================================

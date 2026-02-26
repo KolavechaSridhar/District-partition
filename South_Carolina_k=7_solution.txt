@@ -1,0 +1,52 @@
+================================================================================
+Problem: South Carolina (k=7)
+================================================================================
+
+Total Districts: 7
+Energy (Population Violation): 12841
+
+District 1
+Population: 649524
+Number of Nodes: 5
+Nodes (Population Labels):
+28961, 33140, 66537, 69661, 451225
+
+District 2
+Population: 657487
+Number of Nodes: 10
+Nodes (Population Labels):
+10233, 10419, 21090, 22621, 25417, 26985, 74273, 119224, 160099, 187126
+
+District 3
+Population: 666330
+Number of Nodes: 5
+Nodes (Population Labels):
+23956, 55342, 76652, 226073, 284307
+
+District 4
+Population: 664607
+Number of Nodes: 3
+Nodes (Population Labels):
+136555, 177843, 350209
+
+District 5
+Population: 666175
+Number of Nodes: 8
+Nodes (Population Labels):
+15987, 24777, 34423, 34971, 38892, 92501, 162233, 262391
+
+District 6
+Population: 663107
+Number of Nodes: 8
+Nodes (Population Labels):
+15175, 19875, 28933, 37508, 46734, 61697, 68681, 384504
+
+District 7
+Population: 658134
+Number of Nodes: 7
+Nodes (Population Labels):
+19220, 32062, 33062, 60158, 107456, 136885, 269291
+
+================================================================================
+End of Report
+================================================================================
